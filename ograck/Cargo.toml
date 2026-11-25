@@ -1,0 +1,8 @@
+[package]
+name = "ograck"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macroquad = { version = "0.4.16", features = ["audio"] }
+rand = "0.10.3"
